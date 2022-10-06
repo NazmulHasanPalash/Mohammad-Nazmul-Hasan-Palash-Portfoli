@@ -1,0 +1,10 @@
+.comment-style {
+    height: 200px;
+}
+
+.form-style {
+    background-image: url(../../../public/image/contact-background.jpg);
+    background-size: 100% !important;
+    background-repeat: repeat-y;
+    font-weight: bolder;
+}

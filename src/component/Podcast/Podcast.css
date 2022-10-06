@@ -1,0 +1,72 @@
+.podcast-style {
+    background-image: url(../../../public/image/prodcast.jpg);
+    background-repeat: repeat-y;
+    width: 100%;
+}
+
+.v-style {
+    border: solid white;
+    border: 20px;
+    border-radius: 20px;
+}
+
+.po {
+    color: #41a4e1;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.dc {
+    color: #3e8fe4;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.at {
+    color: #5e54e9;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.st {
+    color: #e754cd;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+@media only screen and (min-width: 300px) and (max-width:786px) {
+    h1 {
+        font-size: 5vw !important;
+    }
+
+    h2 {
+        font-size: 5vw !important;
+    }
+
+    h3 {
+        font-size: 5vw !important;
+
+    }
+
+    h5 {
+        font-size: 5vw !important;
+    }
+
+    h6 {
+        font-size: 3vw !important;
+    }
+
+    .t-style {
+        font-size: 2vw !important;
+
+    }
+
+    .v-style {
+        width: 100% !important;
+        margin: auto;
+        padding: 30px;
+    }
+
+    iframe {
+        width: 100%;
+    }
+}

@@ -1,0 +1,8 @@
+.footer-style {
+    border: 5px solid tomato;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.932);
+    border-radius: 5px;
+    z-index: 10;
+    position: relative !important;
+}

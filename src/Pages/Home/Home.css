@@ -1,0 +1,43 @@
+.profile {
+    background: none;
+}
+
+.profile img {
+    border: 0;
+    position: sticky;
+    z-index: 10;
+
+}
+
+.intro {
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    size-adjust: initial;
+}
+
+.name {
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    size-adjust: initial;
+
+}
+
+.type {
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.text-style {
+    text-align: left !important;
+}
+
+.rox {
+    width: 100%;
+    background-image: url(../../../public/image/background-04.jpg);
+    background-size: cover;
+    margin-top: 80px;
+
+
+}

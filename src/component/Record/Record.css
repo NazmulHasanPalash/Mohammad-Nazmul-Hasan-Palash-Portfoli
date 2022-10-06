@@ -1,0 +1,6 @@
+.count-style {
+    background-color: #1C1C1E !important;
+
+    position: relative;
+    z-index: 10;
+}

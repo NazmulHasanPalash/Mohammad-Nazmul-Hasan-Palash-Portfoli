@@ -1,0 +1,186 @@
+.header-style {
+    position: fixed !important;
+
+    margin-bottom: 100px;
+    top: 0;
+    right: 0;
+    left: 0;
+
+
+    z-index: 1030;
+    border: 1px solid white !important;
+    border-radius: 5px;
+    font-family: 'Ubuntu', 'sans-serif';
+    background-color: crimson !important;
+
+
+}
+
+.header-style li :hover {
+    color: #75edc2 !important;
+
+}
+
+
+.logo-style {
+    font-weight: 600 !important;
+    font-size: 35px !important;
+    font-family: 'Ubuntu', 'sans-serif';
+
+}
+
+.span-style {
+    color: #75edc2 !important;
+}
+
+.profile-style {
+    border: 5px solid;
+    border-radius: 100% !important;
+    border-color: #75edc2 !important;
+
+}
+
+.btn-style a {
+    text-decoration: none !important;
+    color: white !important;
+    font-weight: bold;
+
+}
+
+.btn-style {
+    background-image: linear-gradient(to right, tomato, salmon) !important;
+
+}
+
+.contact-style {
+    background-image: linear-gradient(to right, #e86491, #e94950) !important;
+}
+
+.resume-style {
+    background-image: linear-gradient(to right, blue, cyan) !important;
+}
+
+.profile {
+    background: none;
+}
+
+.profile img {
+    border: 0;
+    position: sticky;
+    z-index: 10;
+    margin-bottom: 0 !important;
+
+
+}
+
+.intro {
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    size-adjust: initial;
+}
+
+.name {
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    size-adjust: initial;
+
+}
+
+.type {
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.text-style {
+    text-align: left !important;
+}
+
+.rox {
+    width: 100%;
+    background-image: url(../../../public/image/background-04.jpg);
+    background-size: cover;
+    margin-top: 80px;
+
+
+}
+
+.font-style {
+    font-size: xx-large !important;
+    text-decoration: none;
+}
+
+.f-style:hover {
+    color: #1166c2 !important;
+    background-color: white !important;
+
+}
+
+.g-style:hover {
+    color: black !important;
+    background-color: white !important;
+
+}
+
+.i-style:hover {
+    color: #e94950 !important;
+    background-color: white !important;
+
+}
+
+.l-style:hover {
+    color: #1166c2 !important;
+    background-color: white !important;
+
+}
+
+
+
+@media only screen and (min-width: 601px) and (max-width:991px) {
+    h1 {
+        font-size: 50px !important;
+    }
+
+    h2 {
+        font-size: 40px !important;
+    }
+
+    h3 {
+        font-size: 30px !important;
+
+    }
+
+    h5 {
+        font-size: 10px !important;
+    }
+
+    .t-style {
+        font-size: 1vw !important;
+
+    }
+}
+
+@media only screen and (min-width: 300px) and (max-width:600px) {
+    h1 {
+        font-size: 50px !important;
+    }
+
+    h2 {
+        font-size: 40px !important;
+    }
+
+    h3 {
+        font-size: 30px !important;
+
+    }
+
+    h6 {
+        font-size: 20px !important;
+    }
+
+    .t-style {
+        font-size: 2vw !important;
+
+    }
+}

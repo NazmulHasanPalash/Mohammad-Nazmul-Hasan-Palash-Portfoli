@@ -1,0 +1,37 @@
+.heading-style {
+    color: rgb(248, 47, 88) !important;
+}
+
+.br-style {
+    border-bottom: 5px solid white;
+}
+
+.b-style {
+    border-bottom: 5px solid rgb(248, 47, 88);
+}
+
+.c-style {
+    color: white;
+    background-color: gray;
+}
+
+.background-style {
+    background-image: url("../../../public/image/project\ background-02.png");
+    background-size: 100%;
+    background-repeat: repeat-y;
+}
+
+.link-style {
+    text-decoration: none;
+    color: white;
+}
+
+.hover-style {
+    transition: transform 250ms;
+
+}
+
+.hover-style:hover {
+    transform: translateY(-15px) !important;
+
+}

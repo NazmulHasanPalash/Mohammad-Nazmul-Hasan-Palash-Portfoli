@@ -1,0 +1,12 @@
+.text-style {
+    text-align: left;
+}
+
+.a-style a {
+    text-decoration: none;
+    color: white;
+}
+
+.im-style img {
+    height: 300px !important;
+}
