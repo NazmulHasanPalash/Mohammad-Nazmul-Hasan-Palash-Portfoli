@@ -1,3 +1,5 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
-Disallow:
+Allow: /
+Sitemap: https://www.nazmulhasanpalash.com/sitemap.xml
+Sitemap: https://www.nazmulhasanpalash.com/sitemap_index.xml
