@@ -8,7 +8,7 @@ const BlogSlideOne = () => {
             <div className="row row-cols-1 row-cols-md-3 g-4 w-75 mx-auto">
                 <div className="col">
                     <div className="card im-style hover-style">
-                        <img src="image/computer-technology-isometric-icon-server-room-digital-device-set-element-design-pc-laptop_39422-1026.jpg" className="card-img-top h-75" alt="..." />
+                        <img src="image/computer-technology-isometric-icon-server-room-digital-device-set-element-design-pc-laptop_39422-1026.jpg" className="card-img-top h-75" alt="Nazmul Hasan Palash Depth of database system blog" />
                         <div className="card-body">
                             <h5 className="card-title">Depth of database system</h5>
 
@@ -18,7 +18,7 @@ const BlogSlideOne = () => {
                 </div>
                 <div className="col">
                     <div className="card im-style hover-style">
-                        <img src="image/hml.jpg" className="card-img-top h-75" alt="..." />
+                        <img src="image/hml.jpg" className="card-img-top h-75" alt="Nazmul Hasan Palash structure of html blog" />
                         <div className="card-body">
                             <h5 className="card-title">Structure of HTML5</h5>
 
@@ -29,7 +29,7 @@ const BlogSlideOne = () => {
                 </div>
                 <div className="col">
                     <div className="card im-style hover-style">
-                        <img src="image/css.jpg" className="card-img-top h-75" alt="..." />
+                        <img src="image/css.jpg" className="card-img-top h-75" alt="Nazmul Hasan Palash CSS flag blog" />
                         <div className="card-body">
                             <h5 className="card-title">CSS Flag</h5>
 

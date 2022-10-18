@@ -6,7 +6,7 @@ const BlogSlideThree = () => {
             <div className="row row-cols-1 row-cols-md-3 g-4 w-75 mx-auto">
                 <div className="col">
                     <div className="card im-style hover-style">
-                        <img src="image/communication.jpg" className="card-img-top h-75" alt="..." />
+                        <img src="image/communication.jpg" className="card-img-top h-75" alt="Nazmul Hasan Palash Communication skills blog" />
                         <div className="card-body">
                             <h5 className="card-title">Communication Skills</h5>
 
@@ -17,7 +17,7 @@ const BlogSlideThree = () => {
                 </div>
                 <div className="col">
                     <div className="card im-style hover-style">
-                        <img src="image/leadership.jpg" className="card-img-top h-75" alt="..." />
+                        <img src="image/leadership.jpg" className="card-img-top h-75" alt="Nazmul Hasan Palash leadership skills and human relations blog" />
                         <div className="card-body">
                             <h6 className="card-title">LEADERSHIP SKILLS & HUMAN RELATIONS</h6>
                             <h6 className="card-title">(Johari’s Model)</h6>
@@ -28,7 +28,7 @@ const BlogSlideThree = () => {
                 </div>
                 <div className="col">
                     <div className="card im-style hover-style">
-                        <img src="image/Artificial.jpg" className="card-img-top h-75" alt="..." />
+                        <img src="image/Artificial.jpg" className="card-img-top h-75" alt="Nazmul Hasan Palash depth of artificial intelligence blog" />
                         <div className="card-body">
                             <h6 className="card-title">Depth of Artificial Intelligence</h6>
 

@@ -9,7 +9,7 @@ const Projects = () => {
                 <div className="row row-cols-1 row-cols-lg-3 row-cols-md-2 g-4 w-100 mx-auto mb-3">
                     <div className="col ">
                         <div className="card h-100 shadow-lg p-3 mb-5 bg-body rounded mx-5 container-fluid mx-auto hover-style">
-                            <img src="image/project-01.png" className="card-img-top" alt="..." />
+                            <img src="image/project-01.png" className="card-img-top" alt="Nazmul Hasan Palash bikers world website project" />
                             <div className="card-body c-style">
                                 <h5 className="card-title text-warning">Bikers world</h5>
                                 <p className="card-text t-style">Website prototype for bike automobile and showrooms. Ful-stack website with google firebase authorization protection system and Mongodb database system. For the check admin system use (Email:admin@admin.com Password:123456)  </p>
@@ -19,7 +19,7 @@ const Projects = () => {
                     </div>
                     <div className="col">
                         <div className="card h-100 shadow-lg p-3 mb-5 bg-body rounded mx-5 container-fluid mx-auto hover-style">
-                            <img src="image/project-02.png" className="card-img-top" alt="..." />
+                            <img src="image/project-02.png" className="card-img-top" alt="Nazmul Hasan Palash Force security website project" />
                             <div className="card-body c-style">
                                 <h5 className="card-title text-warning">Force Security</h5>
                                 <p className="card-text t-style">Website prototype for cyber security corporation. Ful-stack website with google firebase authorization protection system and Mongodb database system.</p>
@@ -30,7 +30,7 @@ const Projects = () => {
                     </div>
                     <div className="col">
                         <div className="card h-100 shadow-lg p-3 mb-5 bg-body rounded mx-5 container-fluid mx-auto hover-style">
-                            <img src="image/project-03.png" className="card-img-top" alt="..." />
+                            <img src="image/project-03.png" className="card-img-top" alt="Nazmul Hasan Palash Medical center charity website project" />
                             <div className="card-body c-style">
                                 <h5 className="card-title text-warning">Medical center</h5>
                                 <p className="card-text t-style">Website prototype for health care or hospital. Ful-stack website with google firebase authorization protection system and Mongodb database system.</p>

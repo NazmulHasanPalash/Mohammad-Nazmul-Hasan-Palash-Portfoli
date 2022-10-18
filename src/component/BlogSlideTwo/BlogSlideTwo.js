@@ -6,7 +6,7 @@ const BlogSlideTwo = () => {
             <div className="row row-cols-1 row-cols-md-3 g-4 w-75 mx-auto">
                 <div className="col">
                     <div className="card im-style hover-style">
-                        <img src="image/js.jpg" className="card-img-top h-75" alt="..." />
+                        <img src="image/js.jpg" className="card-img-top h-75" alt="Nazmul Hasan palash Javasscript flag blog" />
                         <div className="card-body">
                             <h5 className="card-title">Javascript Flag</h5>
 
@@ -16,7 +16,7 @@ const BlogSlideTwo = () => {
                 </div>
                 <div className="col">
                     <div className="card im-style hover-style">
-                        <img src="image/react.jpg" className="card-img-top h-75" alt="..." />
+                        <img src="image/react.jpg" className="card-img-top h-75" alt="Nazmul Hasan Palash react.js concept blog" />
                         <div className="card-body">
                             <h5 className="card-title">React JS concept</h5>
 
@@ -26,7 +26,7 @@ const BlogSlideTwo = () => {
                 </div>
                 <div className="col">
                     <div className="card im-style hover-style">
-                        <img src="image/mongo.jpg" className="card-img-top h-75" alt="..." />
+                        <img src="image/mongo.jpg" className="card-img-top h-75" alt="Nazmul Hasan Palash MongoDB atlas blog" />
                         <div className="card-body">
                             <h5 className="card-title">MongoDB Atlas</h5>
 

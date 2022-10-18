@@ -8,7 +8,7 @@ const Certificate = () => {
                 <div className="row row-cols-1 row-cols-md-2 g-4 ">
                     <div className="col">
                         <div className="card m-3 shadow-lg border-style hover-style ">
-                            <img src="image/Main certificate.png" className="card-img-top" alt="..." />
+                            <img src="image/Main certificate.png" className="card-img-top" alt="Nazmul Hasan Palash Programming hero top 5 percent certificate" />
                             <div className="card-body">
                                 <button className='btn btn-warning p-3 mx-auto btn-style'><a href="https://drive.google.com/file/d/1HgxpzIhiLlphCV4sbSSFqUKxgJQyUCAS/view?usp=sharing" target="_blank" rel="noopener noreferrer">Downland Document</a></button>
                             </div>
@@ -17,7 +17,7 @@ const Certificate = () => {
                     <div className="col ">
                         <div className="card m-3 shadow-lg border-style hover-style">
                             <div className='poster-style'>
-                                <img src="image/Poster.png" className="card-img-top h-50" alt="..." />
+                                <img src="image/Poster.png" className="card-img-top h-50" alt="Nazmul Hasan Palash Black belt certificate" />
 
                             </div>
                             <div className="card-body">

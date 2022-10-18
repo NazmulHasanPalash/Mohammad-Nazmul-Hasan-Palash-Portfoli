@@ -9,7 +9,7 @@ const About = () => {
 
                 <div className="row g-0 d-flex align-items-center w-75 rounded-3  mx-auto bg-dark">
                     <div className="col-md-6   rounded-circle">
-                        <img src="image/polash.png" className="img-fluid rounded-start mx-auto " alt="..." />
+                        <img src="image/polash.png" className="img-fluid rounded-start mx-auto " alt="Nazmul Hasan palash second full view profile" />
                     </div>
                     <div className="col-md-6">
                         <div className="card-body text-white">

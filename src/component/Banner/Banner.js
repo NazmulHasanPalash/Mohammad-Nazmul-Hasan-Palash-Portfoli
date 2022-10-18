@@ -128,7 +128,7 @@ const Banner = () => {
                             <div className="col">
 
                                 <div className=" mx-auto w-100 profile align-items-center">
-                                    <img src="image/profile.png" className="card-img-top img-fluid  w-75" alt="..." />
+                                    <img src="image/profile.png" className="card-img-top img-fluid  w-75" alt="Nazmul Hasan profile" />
 
                                 </div>
 
