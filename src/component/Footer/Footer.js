@@ -34,7 +34,7 @@ const Footer = () => {
                         </div>
                         <div className="col">
                             <h1 className="navbar-brand ms-5 text-white">Portfo<span className="span-style">lio.</span> </h1>
-                            <p className='t-style'>Workaholic web developer with a knack for delivering attractive
+                            <p className='t-style'>Nazmul Hasan Palash is a workaholic web developer with a knack for delivering attractive
                                 solutions in the shortest period of time. For a local charity, I created an
                                 e-commerce website, a travel agency website, a hospital website, a
                                 customer web portal, a documentary launch website, and a contributions

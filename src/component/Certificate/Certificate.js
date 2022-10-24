@@ -10,6 +10,7 @@ const Certificate = () => {
                         <div className="card m-3 shadow-lg border-style hover-style ">
                             <img src="image/Main certificate.png" className="card-img-top" alt="Nazmul Hasan Palash Programming hero top 5 percent certificate" />
                             <div className="card-body">
+
                                 <button className='btn btn-warning p-3 mx-auto btn-style'><a href="https://drive.google.com/file/d/1HgxpzIhiLlphCV4sbSSFqUKxgJQyUCAS/view?usp=sharing" target="_blank" rel="noopener noreferrer">Downland Document</a></button>
                             </div>
                         </div>
